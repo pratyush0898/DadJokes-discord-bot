@@ -38,7 +38,7 @@ Before running this bot, make sure you have:
 
 1. **Clone or download this project**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/pratyush0898/DadJokes-discord-bot.git
    cd dadjokes-discord-bot
    ```
 
